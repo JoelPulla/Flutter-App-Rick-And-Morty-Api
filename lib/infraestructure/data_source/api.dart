@@ -23,7 +23,7 @@ class ApiService {
   }
 
   /// Search character
-  Future<Person> getSearchQuery(String query) async {
+  Future <Person> getSearchQuery(String query) async {
     final response = await dio.get('/character', queryParameters: {
       'name': query,
     });

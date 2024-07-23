@@ -15,11 +15,7 @@ class _NavigationBarAppState extends State<NavigationBarApp> {
   Widget build(BuildContext context) {
     final colors = Theme.of(context).colorScheme;
 
-    final screens = [
-      const HomeView(),
-      const SearchCharacter(),
-      const ConfigScrenn()
-    ];
+    final screens = [const HomeView(), SearchCharacter(), const ConfigScrenn()];
 
     return Scaffold(
       body: IndexedStack(

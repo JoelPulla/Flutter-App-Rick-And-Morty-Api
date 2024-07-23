@@ -34,7 +34,7 @@ class LabelStatus extends StatelessWidget {
             const SizedBox(width: 5),
             Text(
               data,
-            )
+            ),
           ],
         ),
       ),

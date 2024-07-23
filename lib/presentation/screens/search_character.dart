@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:peticion_hht/infraestructure/data_source/api.dart';
 import 'package:peticion_hht/presentation/delegates/search_delegates.dart';
 
 class SearchCharacter extends StatelessWidget {
-  const SearchCharacter({super.key});
-
   static const imageAvatar =
       'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1721756671~exp=1721757271~hmac=648dbbcb09e7c4e7da62d546be02578d574a3aa3217c12fea023e1da9eefed0a';
+
+  final ApiService apiService = ApiService();
+
+  SearchCharacter({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -43,7 +46,9 @@ class SearchCharacter extends StatelessWidget {
               GestureDetector(
                 onTap: () {
                   showSearch(
-                      context: context, delegate: SearchCharacterDelegates());
+                    context: context,
+                    delegate: SearchCharacterDelegates(apiService),
+                  );
                 },
                 child: Container(
                   decoration: BoxDecoration(
