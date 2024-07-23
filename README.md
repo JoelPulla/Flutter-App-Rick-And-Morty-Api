@@ -1,6 +1,5 @@
 
-# Flutter Rick and Morty Character Search
-
+# Flutter Rick and Morty Flutter App
 This project is a Flutter application that allows users to search and view details of characters from the Rick and Morty series using the Rick and Morty API. The application implements a custom `SearchDelegate` to perform searches and display results intuitively.
 
 ## Features
