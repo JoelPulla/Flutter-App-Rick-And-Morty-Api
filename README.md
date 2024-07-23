@@ -70,5 +70,4 @@ Animations: Enhance the user experience with smoother transitions and animations
 Contributions
 Contributions are welcome. If you have any ideas, find any bugs, or want to improve any features, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. For more details, see the LICENSE file.
+
