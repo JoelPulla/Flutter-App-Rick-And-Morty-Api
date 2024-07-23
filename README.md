@@ -11,17 +11,10 @@ This project is a Flutter application that allows users to search and view detai
 - **Theme Management**: Support for light and dark themes.
 
 <img src="https://github.com/user-attachments/assets/98679dbc-bc05-475b-8ca6-716d2029f44c" width="200"/>
-
-![IMG-20240723-WA0029](https://github.com/user-attachments/assets/98679dbc-bc05-475b-8ca6-716d2029f44c)
-![IMG-20240723-WA0028](https://github.com/user-attachments/assets/c5076922-ed7b-46c8-b23b-90218fdc9d4b)
-![IMG-20240723-WA0025](https://github.com/user-attachments/assets/bade7940-8afb-41a0-b820-8190488625b5)
-![IMG-20240723-WA0027](https://github.com/user-attachments/assets/18e1f4ad-9b1d-43c5-a868-10cbda5d0bcf)
-![IMG-20240723-WA0026](https://github.com/user-attachments/assets/e9e6a449-5869-4c8f-af24-807b72256350)
-
-
-
-
-
+<img src="https://github.com/user-attachments/assets/c5076922-ed7b-46c8-b23b-90218fdc9d4b" width="200"/>
+<img src="https://github.com/user-attachments/assets/bade7940-8afb-41a0-b820-8190488625b5" width="200"/>
+<img src="https://github.com/user-attachments/assets/18e1f4ad-9b1d-43c5-a868-10cbda5d0bcf" width="200"/>
+<img src="https://github.com/user-attachments/assets/e9e6a449-5869-4c8f-af24-807b72256350" width="200"/>
 
 ## Technologies Used
 
