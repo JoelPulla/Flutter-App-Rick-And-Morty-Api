@@ -10,6 +10,7 @@ This project is a Flutter application that allows users to search and view detai
 - API calls using the `dio` package.
 - **Theme Management**: Support for light and dark themes.
 
+<img src="https://github.com/user-attachments/assets/98679dbc-bc05-475b-8ca6-716d2029f44c" width="200"/>
 
 ![IMG-20240723-WA0029](https://github.com/user-attachments/assets/98679dbc-bc05-475b-8ca6-716d2029f44c)
 ![IMG-20240723-WA0028](https://github.com/user-attachments/assets/c5076922-ed7b-46c8-b23b-90218fdc9d4b)
