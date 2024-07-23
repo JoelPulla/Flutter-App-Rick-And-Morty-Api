@@ -27,7 +27,7 @@ class ConfigScrenn extends StatelessWidget {
                     child: CircleAvatar(
                       maxRadius: 70,
                       backgroundImage: NetworkImage(
-                          'https://scontent.fcue6-1.fna.fbcdn.net/v/t39.30808-6/278282846_358883076170926_503658214271980473_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=m9DnZMeMUZMQ7kNvgGmmIDI&_nc_ht=scontent.fcue6-1.fna&oh=00_AYDLGzsdBu7MpRYirpEVP0A12ZNZ5ULpm6oTjROjb3flpQ&oe=66A46480'),
+                          'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1721756671~exp=1721757271~hmac=648dbbcb09e7c4e7da62d546be02578d574a3aa3217c12fea023e1da9eefed0a'),
                     ),
                   ),
                   const Positioned(
@@ -77,7 +77,7 @@ class ConfigScrenn extends StatelessWidget {
                 ),
                 Padding(
                   padding:
-                      const EdgeInsets.symmetric(horizontal: 5, vertical: 10),
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                   child: Text(
                     myDescription,
                     textAlign: TextAlign.center,
@@ -86,7 +86,7 @@ class ConfigScrenn extends StatelessWidget {
               ],
             ),
             const Padding(
-              padding: EdgeInsets.all(8.0),
+              padding: EdgeInsets.symmetric(horizontal: 15, vertical: 10),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
