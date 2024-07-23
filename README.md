@@ -8,7 +8,6 @@ This project is a Flutter application that allows users to search and view detai
 - Character search by name.
 - Display details of selected characters.
 - API calls using the `dio` package.
-- Responsive and user-friendly interface.
 - **Theme Management**: Support for light and dark themes.
 
 ## Technologies Used
