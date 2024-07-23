@@ -1,8 +1,4 @@
 
-¡Claro! A continuación te dejo el contenido del README en un solo documento listo para que lo uses en tu repositorio de GitHub:
-
-markdown
-Copiar código
 # Flutter Rick and Morty Character Search
 
 This project is a Flutter application that allows users to search and view details of characters from the Rick and Morty series using the Rick and Morty API. The application implements a custom `SearchDelegate` to perform searches and display results intuitively.
