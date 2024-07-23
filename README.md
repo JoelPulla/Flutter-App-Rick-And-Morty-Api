@@ -34,7 +34,7 @@ Flutter is an open-source framework developed by Google for creating native comp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/rick_and_morty_search.git
+   https://github.com/JoelPulla/Flutter-App-Rick-And-Morty-Api.git
 Navigate to the project directory:
 bash
 Copiar código
