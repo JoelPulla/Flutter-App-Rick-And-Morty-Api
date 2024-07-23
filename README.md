@@ -1,6 +1,6 @@
-# peticion_hht
+# Rick And Morty Flutter
 
-A new Flutter project.
+My proyecyt new basic cosume api 'https://rickandmortyapi.com/'
 
 ## Getting Started
 
